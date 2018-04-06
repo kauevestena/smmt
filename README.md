@@ -9,20 +9,22 @@ TESTADO APENAS EM AMBIENTE LINUX (UBUNTU 16.04)
 Lista de dependências (devem estar na mesma pasta "header-only")
 [OBRIGADO AOS DESENVOLVEDORES]
 
-Biblioteca GNSSTK ( http://gnsstk.sourceforge.net/ ):
-- geodesy.c
-- time_conversion.c
-- basictypes.h
-- constants.h
-- geodesy.h
-- gnss_error.h
-- time_conversion.h
+* Biblioteca GNSSTK ( http://gnsstk.sourceforge.net/ ):
+ - geodesy.c
+ - time_conversion.c
+ - basictypes.h
+ - constants.h
+ - geodesy.h
+ - gnss_error.h
+ - time_conversion.h
 
-Biblioteca Easy Exif ( https://github.com/mayanklahiri/easyexif )
-- exif.h
+*Biblioteca Easy Exif ( https://github.com/mayanklahiri/easyexif )
+ - exif.h
 
-BIBLIOTECA ARMADILLO (VERSÃO MAIS RECENTE)
-http://arma.sourceforge.net/
+Lista de dependências de bibliotecas externas:
 
-BIBLIOTECA OPENCV (3.XX)
-https://github.com/opencv/opencv
+* BIBLIOTECA ARMADILLO (VERSÃO MAIS RECENTE)
+  http://arma.sourceforge.net/
+
+* BIBLIOTECA OPENCV (3.XX)
+  https://github.com/opencv/opencv
